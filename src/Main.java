@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Неизвестная операционна система");
         }
 
-         System.out.println ("Задача 2");
+        System.out.println ("Задача 2");
         clientOs = 1;
         int clientDeviceYear = 2015;
 
@@ -79,13 +79,7 @@ public class Main {
             default:
                 System.out.println("Неверный номер месяца");
         }
-
-
-
-
-
-
-        }
+    }
 }
 
 
